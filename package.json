@@ -1,0 +1,19 @@
+{
+  "name": "codelab-maps-platform-101",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "description": "This repo contains the project template and finished code for the Google Maps Platform 101: JavaScript codelab.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
